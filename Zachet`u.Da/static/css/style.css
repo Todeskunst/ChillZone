@@ -1,0 +1,36 @@
+.dopinfo{
+      margin: -10px 1700px;
+      background-color: black;
+}
+.Z1{
+      margin: -100px -20px;
+      padding: 30px;
+      background-image: url("/static/images/blackline.jpg");
+}
+.A1 {
+      text-align: center;
+      margin: 150px 1250px;
+      background-color: white;
+      width: 24.62%;
+      max-width: 1000;
+      border-style: solid;
+      border-color: black;
+}
+.B1{
+      text-align: center;
+      margin: -640px 700px;
+      background-color: white;
+      width: 23.117%;
+      max-width: 1000;
+      border-style: solid;
+      border-color: black;
+}
+.C1{
+      text-align: center;
+      margin: 115px 100px;
+      background-color: white;
+      width: 24.60%;
+      max-width: 1000;
+      border-style: solid;
+      border-color: black;
+}
